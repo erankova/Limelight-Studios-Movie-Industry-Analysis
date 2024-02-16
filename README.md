@@ -104,6 +104,7 @@ Lastly, we scrutinized the ratings assigned to films by various writers and dire
 
 ## Recommendations and Looking Ahead
 
+
 <u>*Genres:*</u><br>
 For phase 1 we are investing in the following genres: **action, adventure, animation, family, fantasy, and science fiction**. We looked at a variety of factors, primarily `worldwide_gross` and `popularity`. We chose highly grossing genres as well as popular untapped markets such as Science Fiction. 
 
