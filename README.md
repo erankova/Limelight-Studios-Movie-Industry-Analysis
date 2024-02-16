@@ -105,11 +105,11 @@ Lastly, we scrutinized the ratings assigned to films by various writers and dire
 ## Recommendations and Looking Ahead
 
 
-<int>*Genres:*</int><br>
+<ins>*Genres:*</ins><br>
 For phase 1 we are investing in the following genres: **action, adventure, animation, family, fantasy, and science fiction**. We looked at a variety of factors, primarily `worldwide_gross` and `popularity`. We chose highly grossing genres as well as popular untapped markets such as Science Fiction. 
 
 
-<int>*Starting Production Budget by Genre:*</int><br>
+<ins>*Starting Production Budget by Genre:*</ins><br>
 After viewing the distribution of values in our boxplot, we decided to focus on the median `production_budget` for each genre rather than the mean since the data was skewed towards the median and the mean was not a good representation. As these are starting budgets, there is room for flexibility based on specific projects, which will be determined by those working on the specific project when the time comes. This aligns with our findings stating that a higher `production_budget` is positively correlated with `popularity` as well as `worldwide_gross`.
 - *Action:* 60,000,000 <br>
 - *Adventure:* 99,500,000 <br>
@@ -119,7 +119,7 @@ After viewing the distribution of values in our boxplot, we decided to focus on 
 - *Science Fiction:* 52,600,000 <br>
 
 
-<int>*Creators by Genre:*</int><br>
+<ins>*Creators by Genre:*</ins><br>
 After identifying which genres we were starting with in phase 1, we took to other IMDb data on creators to find talents relevant for each genre. Of course, as we grow we want to give these individuals the chance to branch out as well, this is something we will consider on a per project basis.
 
 *Directors:*
@@ -142,14 +142,14 @@ After identifying which genres we were starting with in phase 1, we took to othe
 
 **Conclusion** <br>
 
-<u>*Phase 1:*</u><br>
+<ins>*Phase 1:*</ins><br>
 For phase 1 of this business initiative we are focusing on making a name for ourselves as we are already well known in the industry but have not ventured into creation of movies as of yet. We are excited to make our mark and to do so, we must prioritize profit to ensure we can successfully move on with next step expansion and invest in worthy stories. <br>
 
 While we did not include all genres of interst to our founder as their ideal portfolio is more dynamic than realistically accomplishable for phase 1, but we were able to include a diverse starter list that addresses profit as well as popularity.
 
 We would love to work with a variety of creators and provide a platform that sets both, those we work with as well as our company up for success. While we have defined a starting budget per genre, this is just a guideline and there will be room for flexibility when a specific project launches.<br>
 
-<u>*Looking Ahead:*</u><br>
+<ins>*Looking Ahead:*</ins><br>
 As we continue to make our mark in the movie industry, we would want to take a deeper dive into both, what viewers prefer as well as what values we align with. The *date range* which we evaluated was limited by our data so we would be curious to evaluate data past 2020 as well. <br>
 
 Language and region is not something we delf deep but we would like to look into how *language* and *region* plays a role in metrics we evaluated during our analysis for phase 1. <br>
