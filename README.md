@@ -60,7 +60,7 @@ Despite narrowing down our datasets, we still had a large volume of data sourced
 
 We first analyzed our dataframe containing TMDB and budget information. We wanted to test the correlation of several different variables, including `popularity`, `vote_average`, and `production_budget` to `worldwide_gross`. 
 
-To better understand what the correlation coefficient `r` means in terms of relationship strength we used the 'Rule of Thumb for Interpreting the Size of a Correlation Coefficient provided in <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3576830/'>A guide to appropriate use of Correlation coefficient in medical research</a>. These are our results: 
+To better understand what the correlation coefficient `r` means in terms of relationship strength we used the 'Rule of Thumb for Interpreting the Size of a Correlation Coefficient provided in <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3576830/'>A guide to appropriate use of Correlation coefficient in medical research</a>. Below are our results.
 
 #### Correlation Tests
 - `worldwide_gross` vs `popularity`: With a correlation coefficient (r) of ~.64, we can confirm that the more popular the movie, the higher the gross profit with a 'moderate' positive correlation.
@@ -92,6 +92,8 @@ We computed the central tendencies of production_budget for each of our genres o
   <p align="center">
   <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/09c9ce23c65fb1673d52239b15eb4c3f82aa92a4/Images/Production%20Budget%20Boxplot.png" width="419" height="641">
 </p> 
+
+After understanding that the median was our best reference for starting budget per genre, we were able to isolate that information to present to our client.
 
 </p> 
   <p align="center">
