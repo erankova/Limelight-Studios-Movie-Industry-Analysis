@@ -68,7 +68,7 @@ We first analyzed our dataframe containing TMDB and budget information. We wante
 - `worldwide_gross` vs `production_budget`: There is a high positive correlation with r at ~.8, we can confirm that a higher `production_budget` is a good predicter of higher `worldwide_gross` profits.
 
 <p align="center">
-  <img src = ./Images/correlations.png>
+  <img src = ./Images/Worldwide Gross Correlations.png>
 </p> 
 
 #### Genre Analysis
