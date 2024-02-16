@@ -77,7 +77,7 @@ For our genre analysis, we conducted an ANOVA test to assess whether `worldwide_
 We also looked at movie count by genre, popularity by genre and production budget by genre.
 
 <p align="center">
-  <img src = ./Images/Genre General Analysis.png>
+  <img src = ./images/Genre General Analysis.png>
 </p> 
 
 <p align="center">
