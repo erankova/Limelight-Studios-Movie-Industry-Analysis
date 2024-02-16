@@ -81,14 +81,14 @@ We also looked at movie count by genre, popularity by genre and production budge
 </p> 
 
 <p align="center">
-  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Grossing%20Evaluation.png" width="1383" height="851">
+  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Grossing%20Evaluation.png" width="1183" height="651">
 </p> 
 
 We computed the central tendencies of production_budget for each of our genres of interest. This analysis aimed to provide Limelight Studios with budget recommendations.
 
 </p> 
   <p align="center">
-  <img src = Images/Production Budget Boxplot.png>
+  <img src = ./Images/Production Budget Boxplot.png>
 </p> 
 
 </p> 
