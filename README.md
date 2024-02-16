@@ -81,19 +81,19 @@ We also looked at movie count by genre, popularity by genre and production budge
 </p> 
 
 <p align="center">
-  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Grossing%20Evaluation.png" width="983" height="451">
+  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Grossing%20Evaluation.png" width="983" height="551">
 </p> 
 
 We computed the central tendencies of production_budget for each of our genres of interest. This analysis aimed to provide Limelight Studios with budget recommendations.
 
 </p> 
   <p align="center">
-  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/09c9ce23c65fb1673d52239b15eb4c3f82aa92a4/Images/Production%20Budget%20Boxplot.png" width="619" height="841">
+  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/09c9ce23c65fb1673d52239b15eb4c3f82aa92a4/Images/Production%20Budget%20Boxplot.png" width="419" height="641">
 </p> 
 
 </p> 
   <p align="center">
-  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Median%20Production%20Budget.png" width="862" height="857">
+  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Median%20Production%20Budget.png" width="662" height="657">
 </p> 
 
 Lastly, we scrutinized the ratings assigned to films by various writers and directors, with the goal of providing Limelight Studios with evidence-based collaboration recommendations.
