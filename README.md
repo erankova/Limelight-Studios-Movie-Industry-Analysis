@@ -77,18 +77,18 @@ For our genre analysis, we conducted an ANOVA test to assess whether `worldwide_
 We also looked at movie count by genre, popularity by genre and production budget by genre.
 
 <p align="center">
-  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Worldwide%20Gross%20Correlations.png" width="654" height="608">
+  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Genre%20General%20Analysis.png" width="894" height="452">
 </p> 
 
 <p align="center">
-  <img src = ./Images/genreanalysis.png>
+  <img src = "https://github.com/erankova/Limelight-Studios-Movie-Industry-Analysis/blob/main/Images/Grossing%20Evaluation.png" width="1383" height="851">
 </p> 
 
 We computed the central tendencies of production_budget for each of our genres of interest. This analysis aimed to provide Limelight Studios with budget recommendations.
 
 </p> 
   <p align="center">
-  <img src = ./Images/productionbudgetplot.png>
+  <img src = Images/Production Budget Boxplot.png>
 </p> 
 
 </p> 
