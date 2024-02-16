@@ -105,11 +105,11 @@ Lastly, we scrutinized the ratings assigned to films by various writers and dire
 ## Recommendations and Looking Ahead
 
 
-<u>*Genres:*</u><br>
+<int>*Genres:*</int><br>
 For phase 1 we are investing in the following genres: **action, adventure, animation, family, fantasy, and science fiction**. We looked at a variety of factors, primarily `worldwide_gross` and `popularity`. We chose highly grossing genres as well as popular untapped markets such as Science Fiction. 
 
 
-<u>*Starting Production Budget by Genre:*</u><br>
+<int>*Starting Production Budget by Genre:*</int><br>
 After viewing the distribution of values in our boxplot, we decided to focus on the median `production_budget` for each genre rather than the mean since the data was skewed towards the median and the mean was not a good representation. As these are starting budgets, there is room for flexibility based on specific projects, which will be determined by those working on the specific project when the time comes. This aligns with our findings stating that a higher `production_budget` is positively correlated with `popularity` as well as `worldwide_gross`.
 - *Action:* 60,000,000 <br>
 - *Adventure:* 99,500,000 <br>
@@ -119,7 +119,7 @@ After viewing the distribution of values in our boxplot, we decided to focus on 
 - *Science Fiction:* 52,600,000 <br>
 
 
-<u>*Creators by Genre:*</u><br>
+<int>*Creators by Genre:*</int><br>
 After identifying which genres we were starting with in phase 1, we took to other IMDb data on creators to find talents relevant for each genre. Of course, as we grow we want to give these individuals the chance to branch out as well, this is something we will consider on a per project basis.
 
 *Directors:*
