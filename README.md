@@ -167,6 +167,6 @@ We are also going to take a deeper dive into *ROI (return on investment)* metric
 ├── Images
 ├── .gitignore
 ├── Limelight-Studios-Analysis-of-Movies.pdf
-├── Limelight_Studios_Movie_Industry_Analysis.ipynb
+├── Limelight Studios Movie Industry Analysis.ipynb
 └── README.md
 ```
